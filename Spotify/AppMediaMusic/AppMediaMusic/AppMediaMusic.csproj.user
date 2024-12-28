@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AdminManagementWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ForgetPasswordWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageSongWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ModifyUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PlaylistSelectionWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SignUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SongDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Statistic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UpdateSong.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\SongItem.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserProfileWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewProfileImage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AdminManagementWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ForgetPasswordWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageSongWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ModifyUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PlaylistSelectionWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SignUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SongDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Statistic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UpdateSong.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\SongItem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserProfileWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewProfileImage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,48 @@
+﻿<Window x:Class="AppMediaMusic.SongDetail"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppMediaMusic"
+        mc:Ignorable="d"
+        Title="SongDetail" Height="498" Width="800">
+
+    <Grid Margin="20">
+        <MediaElement x:Name="mediaPlayer" LoadedBehavior="Manual" UnloadedBehavior="Stop" />
+        <!-- Song Title and Artist -->
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,10,0,0">
+            <Image x:Name="AlbumArtImage" Width="150" Height="150" Margin="0,0,0,10"/>
+            <TextBlock x:Name="SongTitleText" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <TextBlock x:Name="ArtistNameText" FontSize="18" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+
+        <!-- Seek Bar and Time -->
+        <StackPanel Orientation="Horizontal" Margin="140,277,140,100">
+            <!-- Thời gian hiện tại -->
+            <TextBlock x:Name="CurrentTimeText" Text="0:00" VerticalAlignment="Center" Margin="0,0,5,0"/>
+            <Slider x:Name="TimelineSlider" Width="400"  
+                Minimum="0" Maximum="1" 
+                ValueChanged="TimelineSlider_ValueChanged"
+                PreviewMouseDown="TimelineSlider_PreviewMouseDown" 
+                PreviewMouseUp="TimelineSlider_PreviewMouseUp"/>
+
+            <!-- Thanh thời gian -->
+
+            <!-- Tổng thời gian của bài nhạc -->
+            <TextBlock x:Name="TotalTimeText" Text="0:00" VerticalAlignment="Center" Margin="5,0,0,0"/>
+        </StackPanel>
+
+        <!-- Media Controls -->
+        <!-- Playback Controls -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,320,0,50" Height="50">
+            <Button x:Name="PlayPauseButton" Content="⏸ Pause" Margin="5" Width="75" Height="30" Click="PlayPause_Click"/>
+            <Button Content="⏮" Margin="5" Width="30" Click="RewindButton_Click" />
+            <Button Content="⏭" Margin="5" Width="30" Click="FastForwardButton_Click"/>
+            <Button Content="Previous" Margin="5" Width="75" Click="Previous_Click"/>
+            <Button Content="Next" Margin="5" Width="75" Click="Next_Click"/>
+            <TextBlock Text="Volume" VerticalAlignment="Center" Margin="10,0,5,0"/>
+            <Slider x:Name="VolumeSlider" Width="100" Minimum="0" Maximum="1" Value="0.5" ValueChanged="VolumeSlider_ValueChanged" Height="19"/>
+        </StackPanel>
+    </Grid>
+</Window>

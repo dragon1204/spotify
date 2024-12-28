@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\appmediamusic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\appmediamusic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9318B54B-F051-42B2-9FA5-7692BA7B37DC}|AppMediaMusic.DAL\\AppMediaMusic.DAL.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic.dal\\assignmentprncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9318B54B-F051-42B2-9FA5-7692BA7B37DC}|AppMediaMusic.DAL\\AppMediaMusic.DAL.csproj|solutionrelative:appmediamusic.dal\\assignmentprncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9318B54B-F051-42B2-9FA5-7692BA7B37DC}|AppMediaMusic.DAL\\AppMediaMusic.DAL.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic.dal\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9318B54B-F051-42B2-9FA5-7692BA7B37DC}|AppMediaMusic.DAL\\AppMediaMusic.DAL.csproj|solutionrelative:appmediamusic.dal\\entities\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\forgetpasswordwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\forgetpasswordwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\forgetpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\forgetpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\userprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\userprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\adminmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\adminmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\userprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\userprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|d:\\nmcnpm\\spotify\\spotify\\spotify\\appmediamusic\\appmediamusic\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC689419-E005-4198-94BB-C9984E5BFC3B}|AppMediaMusic\\AppMediaMusic.csproj|solutionrelative:appmediamusic\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppMediaMusic",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\AppMediaMusic.csproj",
+              "RelativeDocumentMoniker": "AppMediaMusic\\AppMediaMusic.csproj",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\AppMediaMusic.csproj",
+              "RelativeToolTip": "AppMediaMusic\\AppMediaMusic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T10:51:57.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForgetPasswordWindow.xaml.cs",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\ForgetPasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AppMediaMusic\\ForgetPasswordWindow.xaml.cs",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\ForgetPasswordWindow.xaml.cs",
+              "RelativeToolTip": "AppMediaMusic\\ForgetPasswordWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:50:59.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgetPasswordWindow.xaml",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\ForgetPasswordWindow.xaml",
+              "RelativeDocumentMoniker": "AppMediaMusic\\ForgetPasswordWindow.xaml",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\ForgetPasswordWindow.xaml",
+              "RelativeToolTip": "AppMediaMusic\\ForgetPasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T10:50:36.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic.DAL\\Entities\\Song.cs",
+              "RelativeDocumentMoniker": "AppMediaMusic.DAL\\Entities\\Song.cs",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic.DAL\\Entities\\Song.cs",
+              "RelativeToolTip": "AppMediaMusic.DAL\\Entities\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:41:55.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignmentPrnContext.cs",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic.DAL\\AssignmentPrnContext.cs",
+              "RelativeDocumentMoniker": "AppMediaMusic.DAL\\AssignmentPrnContext.cs",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic.DAL\\AssignmentPrnContext.cs",
+              "RelativeToolTip": "AppMediaMusic.DAL\\AssignmentPrnContext.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:32:52.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AppMediaMusic\\AssemblyInfo.cs",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\AssemblyInfo.cs",
+              "RelativeToolTip": "AppMediaMusic\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:50:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfileWindow.xaml.cs",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\UserProfileWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AppMediaMusic\\UserProfileWindow.xaml.cs",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\UserProfileWindow.xaml.cs",
+              "RelativeToolTip": "AppMediaMusic\\UserProfileWindow.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAD4vzoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:46:23.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserProfileWindow.xaml",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\UserProfileWindow.xaml",
+              "RelativeDocumentMoniker": "AppMediaMusic\\UserProfileWindow.xaml",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\UserProfileWindow.xaml",
+              "RelativeToolTip": "AppMediaMusic\\UserProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T09:29:31.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AppMediaMusic\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AppMediaMusic\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAD4vzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:28:14.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminManagementWindow.xaml",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\AdminManagementWindow.xaml",
+              "RelativeDocumentMoniker": "AppMediaMusic\\AdminManagementWindow.xaml",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\AdminManagementWindow.xaml",
+              "RelativeToolTip": "AppMediaMusic\\AdminManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T09:51:11.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\appsettings.json",
+              "RelativeDocumentMoniker": "AppMediaMusic\\appsettings.json",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\appsettings.json",
+              "RelativeToolTip": "AppMediaMusic\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T09:26:28.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\SignUp.xaml",
+              "RelativeDocumentMoniker": "AppMediaMusic\\SignUp.xaml",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\SignUp.xaml",
+              "RelativeToolTip": "AppMediaMusic\\SignUp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T09:29:14.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "AppMediaMusic\\LoginWindow.xaml",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\LoginWindow.xaml",
+              "RelativeToolTip": "AppMediaMusic\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T09:27:47.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\App.xaml",
+              "RelativeDocumentMoniker": "AppMediaMusic\\App.xaml",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\App.xaml",
+              "RelativeToolTip": "AppMediaMusic\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T09:27:41.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AppMediaMusic\\MainWindow.xaml",
+              "ToolTip": "D:\\NMCNPM\\Spotify\\Spotify\\Spotify\\AppMediaMusic\\AppMediaMusic\\MainWindow.xaml",
+              "RelativeToolTip": "AppMediaMusic\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-15T08:49:31.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

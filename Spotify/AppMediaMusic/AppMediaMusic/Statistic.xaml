@@ -1,0 +1,213 @@
+﻿<!--<Window x:Class="AppMediaMusic.Statistic"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:uc="clr-namespace:AppMediaMusic.UserControls"
+        Height="420" Width="1010" ResizeMode="NoResize" AllowsTransparency="True" 
+        WindowStartupLocation="CenterScreen" WindowStyle="None" Background="Transparent" Loaded="Loaded_Window">
+    <Window.Resources>
+        <Style x:Key="ListViewItemStyle" TargetType="ListViewItem">
+            <Setter Property="Padding" Value="0"/>
+            <Setter Property="Margin" Value="0"/>
+        </Style>
+    </Window.Resources>
+
+    <Border Background="White" CornerRadius="40">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="220"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="12"/>
+            </Grid.RowDefinitions>
+
+            -->
+<!-- Menu Section -->
+<!--
+            <Border Background="White" CornerRadius="40 0 0 40" Grid.RowSpan="2">
+                <StackPanel Margin="0 30 0 0">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="63 10 0 10">
+                        <Ellipse Fill="#ff6258" Width="10" Height="10"/>
+                        <Ellipse Fill="#ffbf2f" Width="10" Height="10" Margin="7 0"/>
+                        <Ellipse Fill="#2acb42" Width="10" Height="10"/>
+                    </StackPanel>
+                    <Button Style="{StaticResource menuButton}" Background="#02be68" Foreground="White">
+                        <Grid>
+                            <TextBlock Text="Home"/>
+                            <Icon:PackIconMaterial Style="{StaticResource menuButtonIcon}" Visibility="Visible"/>
+                        </Grid>
+                    </Button>
+
+                    <Button Content="Add" Style="{StaticResource menuButton}" IsEnabled="False"/>
+                    <Button Content="Delete" Style="{StaticResource menuButton}" IsEnabled="False"/>
+                    <Button Content="Update" Style="{StaticResource menuButton}" IsEnabled="False"/>
+                    <Button Name="btnStatistic" Content="Statistic" Style="{StaticResource menuButton}" Click="btnStatistic_Click"/>
+                    <Button Content="Quit" Style="{StaticResource menuButton}" Click="QuitButton_Click"/>
+                </StackPanel>
+            </Border>
+
+            -->
+<!-- User Section -->
+<!--
+            <StackPanel Grid.Column="1" Background="White" Margin="29,10,78,25" Grid.ColumnSpan="2">
+
+                <TextBlock Text="Statistic" Style="{StaticResource titelText}" Height="51" HorizontalAlignment="Center"/>
+                <Border CornerRadius="20" Margin="0 20 0 0" Width="676" Height="311">
+                    <Border.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#30ad9a" Offset="0"/>
+                            <GradientStop Color="#18c274" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Border.Background>
+
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="20" ShadowDepth="0" Opacity="0.4" Color="#1fae7e"/>
+                    </Border.Effect>
+
+                    <Grid>
+                        <StackPanel Orientation="Vertical" Margin="0,0,310,0">
+                            <Border BorderBrush="white" BorderThickness="1" CornerRadius="20" Background="White" Width="250" Height="150" Margin="0,40,0,0">
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                    <Icon:PackIconMaterial Kind="Account" Foreground="#FF2AB290" Height="78" Width="79" Margin="20,0,0,0"/>
+                                    <Label x:Name="lbUserNum" Content="00" VerticalAlignment="Center" Margin="40,0,0,0" FontSize="40"/>
+                                </StackPanel>
+
+                            </Border>
+                            <Label Content="Number of accounts" HorizontalAlignment="Center" Foreground="white" FontSize="25" FontWeight="Bold"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical" Margin="338,0,0,0">
+                            <Border BorderBrush="white" BorderThickness="1" CornerRadius="20" Background="White" Width="250" Height="150" Margin="0,40,0,0">
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                    <Icon:PackIconMaterial Kind="Music" Foreground="#FF2AB290" Margin="21,0,0,0" Height="78" Width="79" VerticalAlignment="Center"/>
+                                    <Label x:Name="lbSongNum" Content="00" VerticalAlignment="Center" Margin="40,0,0,0" FontSize="40"/>
+                                </StackPanel>
+                            </Border>
+                            <Label Content="Number of songs" HorizontalAlignment="Center" Foreground="white" FontSize="25" FontWeight="Bold"/>
+                        </StackPanel>
+
+
+                    </Grid>
+                </Border>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>-->
+
+
+<Window x:Class="AppMediaMusic.Statistic"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:uc="clr-namespace:AppMediaMusic.UserControls"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        Height="420" Width="1010" ResizeMode="NoResize" AllowsTransparency="True" 
+        WindowStartupLocation="CenterScreen" WindowStyle="None" Background="Transparent" Loaded="Loaded_Window">
+    <Window.Resources>
+        <Style x:Key="ListViewItemStyle" TargetType="ListViewItem">
+            <Setter Property="Padding" Value="0"/>
+            <Setter Property="Margin" Value="0"/>
+        </Style>
+    </Window.Resources>
+
+    <Border Background="White" CornerRadius="40">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="220"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="12"/>
+            </Grid.RowDefinitions>
+
+            <!-- Menu Section -->
+            <Border Background="White" CornerRadius="40 0 0 40" Grid.RowSpan="2">
+                <StackPanel Margin="0 30 0 0">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" Margin="63 10 0 10">
+                        <Ellipse Fill="#ff6258" Width="10" Height="10"/>
+                        <Ellipse Fill="#ffbf2f" Width="10" Height="10" Margin="7 0"/>
+                        <Ellipse Fill="#2acb42" Width="10" Height="10"/>
+                    </StackPanel>
+                    <Button Style="{StaticResource menuButton}" Background="#02be68" Foreground="White">
+                        <Grid>
+                            <TextBlock Text="Statistic"/>
+                            <Icon:PackIconMaterial Style="{StaticResource menuButtonIcon}" Visibility="Visible"/>
+                        </Grid>
+                    </Button>
+
+                    <Button Content="Manage User" Style="{StaticResource menuButton}" Click="Button_Click"/>
+                    <Button Content="Manage Song" Style="{StaticResource menuButton}"  Click="Button_Click_1"/>
+                    <Button Content="Quit" Style="{StaticResource menuButton}"  Click="Button_Click_2"/>
+                    <Button Content="Log Out" Style="{StaticResource menuButton}" Click="QuitButton_Click"/>
+                    <!--<Button Name="btnStatistic" Content="Statistic" Style="{StaticResource menuButton}" Click="btnStatistic_Click"/>-->
+                </StackPanel>
+            </Border>
+
+            <!-- User Section -->
+            <StackPanel Grid.Column="1" Background="White" Margin="29,10,78,10" Grid.ColumnSpan="2">
+                <Border CornerRadius="20" Width="609" Height="132">
+                    <Border.Background>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#30ad9a" Offset="0"/>
+                            <GradientStop Color="#18c274" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Border.Background>
+
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="20" ShadowDepth="0" Opacity="0.4" Color="#1fae7e"/>
+                    </Border.Effect>
+
+                    <Grid>
+                        <StackPanel Orientation="Vertical" Margin="0,0,310,0">
+                            <Border BorderBrush="white" BorderThickness="1" CornerRadius="20" Background="White" Width="216" Height="50" Margin="0,40,0,0">
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                    <Icon:PackIconMaterial Kind="Account" Foreground="#FF2AB290" Height="47" Width="54" Margin="20,0,0,0" RenderTransformOrigin="0.86,1.653"/>
+                                    <Label x:Name="lbUserNum" Content="00" VerticalAlignment="Center" Margin="40,0,0,0" FontSize="40" Height="61" Width="57"/>
+                                </StackPanel>
+
+                            </Border>
+                            <Label Content="Number of accounts" HorizontalAlignment="Center" Foreground="white" FontSize="25" FontWeight="Bold"/>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Vertical" Margin="343,0,0,0">
+                            <Border BorderBrush="white" BorderThickness="1" CornerRadius="20" Background="White" Width="206" Height="54" Margin="0,40,0,0">
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                                    <Icon:PackIconMaterial Kind="Music" Foreground="#FF2AB290" Margin="21,0,0,0" Height="48" Width="65" VerticalAlignment="Center"/>
+                                    <Label x:Name="lbSongNum" Content="00" VerticalAlignment="Center" Margin="40,0,0,0" FontSize="40" Height="58" Width="49"/>
+                                </StackPanel>
+                            </Border>
+                            <Label Content="Number of songs" HorizontalAlignment="Center" Foreground="white" FontSize="25" FontWeight="Bold"/>
+                        </StackPanel>
+
+                        <!-- Chart Section -->
+                        <lvc:CartesianChart x:Name="SongsCreatedChart" Margin="0,164,0,-263">
+                            <lvc:CartesianChart.AxisX>
+                                <lvc:Axis Title="Date" Labels="{Binding Dates}">
+                                    <lvc:Axis.Separator>
+                                        <lvc:Separator Step="1" />
+                                    </lvc:Axis.Separator>
+                                </lvc:Axis>
+                            </lvc:CartesianChart.AxisX>
+                            <lvc:CartesianChart.AxisY>
+                                <lvc:Axis Title="Number of Songs" MinValue="0">
+                                    <lvc:Axis.Separator>
+                                        <lvc:Separator Step="1" />
+                                    </lvc:Axis.Separator>
+                                </lvc:Axis>
+                            </lvc:CartesianChart.AxisY>
+                        </lvc:CartesianChart>
+
+                    </Grid>
+                </Border>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>
+

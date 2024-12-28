@@ -1,0 +1,758 @@
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.exe
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.deps.json
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.runtimeconfig.json
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.dll
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.pdb
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.baml
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.cache
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.g.resources
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMedia.F684254A.Up2Date
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.dll
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\refint\AppMediaMusic.dll
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.pdb
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ref\AppMediaMusic.dll
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.baml
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.g.cs
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\source\repos\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.lref
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.exe
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.deps.json
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.runtimeconfig.json
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.pdb
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.baml
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.baml
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.g.cs
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.cache
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.lref
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.g.resources
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfo.cs
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMedia.F684254A.Up2Date
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\refint\AppMediaMusic.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.pdb
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.genruntimeconfig.cache
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ref\AppMediaMusic.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.pdb
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.pdb
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.g.cs
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.g.cs
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.ResolveComReference.cache
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.baml
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.baml
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.exe
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.deps.json
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.pdb
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.pdb
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.pdb
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.ResolveComReference.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.baml
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.baml
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.g.cs
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.g.cs
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.g.cs
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.lref
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.baml
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.baml
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.g.resources
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.sourcelink.json
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMedia.F684254A.Up2Date
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\refint\AppMediaMusic.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.pdb
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ref\AppMediaMusic.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.baml
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.baml
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\DetailWindow.g.cs
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.g.cs
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.g.cs
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.g.cs
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\refint\AppMediaMusic.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.pdb
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.exe
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.deps.json
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.runtimeconfig.json
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.pdb
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.pdb
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.pdb
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\DetailWindow.baml
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.baml
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.baml
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.g.resources
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.sourcelink.json
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMedia.F684254A.Up2Date
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ref\AppMediaMusic.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.exe
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.deps.json
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.runtimeconfig.json
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.pdb
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.pdb
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.pdb
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.ResolveComReference.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.baml
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.baml
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.g.cs
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.g.cs
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.g.cs
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.lref
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.baml
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.baml
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.g.resources
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.sourcelink.json
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMedia.F684254A.Up2Date
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\refint\AppMediaMusic.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.pdb
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ref\AppMediaMusic.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistSelectionWindow.baml
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistSelectionWindow.g.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.AssemblyReference.cache
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.ResolveComReference.cache
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistSelectionWindow.baml
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.baml
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.g.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistSelectionWindow.g.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.g.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\SongDetail.g.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.g.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.cache
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.lref
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.g.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.exe
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\appsettings.json
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.deps.json
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.runtimeconfig.json
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.pdb
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\taglib-sharp.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.pdb
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.pdb
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.baml
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.baml
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.baml
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.baml
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\SongDetail.baml
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.g.resources
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfoInputs.cache
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfo.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.CoreCompileInputs.cache
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMedia.F684254A.Up2Date
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\refint\AppMediaMusic.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.pdb
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.genruntimeconfig.cache
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ref\AppMediaMusic.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.exe
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\appsettings.json
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.deps.json
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.runtimeconfig.json
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.pdb
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\LiveCharts.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\taglib-sharp.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.pdb
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.pdb
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.AssemblyReference.cache
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.ResolveComReference.cache
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AdminManagementWindow.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ModifyUser.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistSelectionWindow.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UpdateSong.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AdminManagementWindow.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ForgetPasswordWindow.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ManageSongWindow.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ManageUser.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ModifyUser.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistSelectionWindow.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\SignUp.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\SongDetail.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Statistic.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UpdateSong.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserProfileWindow.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ViewProfileImage.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.cache
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.lref
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ForgetPasswordWindow.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ManageSongWindow.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ManageUser.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\SignUp.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\SongDetail.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Statistic.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserProfileWindow.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ViewProfileImage.baml
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.g.resources
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfoInputs.cache
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfo.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.CoreCompileInputs.cache
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.sourcelink.json
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMedia.F684254A.Up2Date
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\refint\AppMediaMusic.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.pdb
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.genruntimeconfig.cache
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ref\AppMediaMusic.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.exe
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\appsettings.json
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.deps.json
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.runtimeconfig.json
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.pdb
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\LiveCharts.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\taglib-sharp.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.BLL.pdb
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\bin\Debug\net8.0-windows\AppMediaMusic.DAL.pdb
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.AssemblyReference.cache
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.ResolveComReference.cache
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AdminManagementWindow.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ModifyUser.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistSelectionWindow.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UpdateSong.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AdminManagementWindow.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ForgetPasswordWindow.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ManageSongWindow.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ManageUser.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ModifyUser.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistSelectionWindow.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\SignUp.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\SongDetail.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Statistic.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UpdateSong.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserControls\SongItem.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserProfileWindow.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ViewProfileImage.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.cache
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic_MarkupCompile.lref
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\App.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ForgetPasswordWindow.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\MainWindow.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ManageSongWindow.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ManageUser.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistDetailsWindow.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\PlaylistWindow.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\SignUp.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\SongDetail.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\Statistic.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\UserProfileWindow.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ViewProfileImage.baml
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.g.resources
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.GeneratedMSBuildEditorConfig.editorconfig
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfoInputs.cache
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.AssemblyInfo.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.csproj.CoreCompileInputs.cache
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMedia.F684254A.Up2Date
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\refint\AppMediaMusic.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.pdb
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\AppMediaMusic.genruntimeconfig.cache
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic\obj\Debug\net8.0-windows\ref\AppMediaMusic.dll

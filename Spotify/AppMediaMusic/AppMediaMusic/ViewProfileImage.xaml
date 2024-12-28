@@ -1,0 +1,14 @@
+﻿<Window x:Class="AppMediaMusic.ViewProfileImage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppMediaMusic"
+        mc:Ignorable="d"
+        Title="ViewProfileImage" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Image Name="imgUserProfile" Source="D:\FILE PRN\FinalProject_Music\MusicApp3\final_prn\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic\Images\backg.jpg" Margin="95,40,94,101"/>
+        <Button Name="btnReturn" Content="Return" HorizontalAlignment="Center" Margin="0,361,0,0" VerticalAlignment="Top" FontSize="30" Click="btnReturn_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,70 @@
+﻿<Window x:Class="AppMediaMusic.ModifyUser" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="Create New Song" Height="400" Width="600">
+    <Window.Resources>
+        <Style x:Key="inputLabel" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="10 5 0 5"/>
+        </Style>
+        <Style x:Key="inputTextBox" TargetType="TextBox">
+            <Setter Property="Margin" Value="10 5"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+        <Style x:Key="submitButton" TargetType="Button">
+            <Setter Property="Margin" Value="10 20"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Background" Value="#02be68"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="cancelButton" TargetType="Button" BasedOn="{StaticResource submitButton}">
+            <Setter Property="Background" Value="#FF0000"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="#F0F0F0">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="500">
+            <TextBlock Text="Create New Admin Account" FontSize="24" FontWeight="Bold" Foreground="#02be68" HorizontalAlignment="Center" Margin="0 20"/>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="Username" Style="{StaticResource inputLabel}" Grid.Row="0" Grid.Column="0"/>
+                <TextBox x:Name="txtUsername" Style="{StaticResource inputTextBox}" Grid.Row="0" Grid.Column="1"/>
+
+                <TextBlock Text="Password" Style="{StaticResource inputLabel}" Grid.Row="1" Grid.Column="0"/>
+                <TextBox x:Name="txtPassword" Style="{StaticResource inputTextBox}" Grid.Row="1" Grid.Column="1"/>
+
+
+            </Grid>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Create" Style="{StaticResource submitButton}" Click="CreateButton_Click" Height="28" Width="62"/>
+                <Button Content="Return" Style="{StaticResource cancelButton}" Click="CancelButton_Click" Height="28" Width="62"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

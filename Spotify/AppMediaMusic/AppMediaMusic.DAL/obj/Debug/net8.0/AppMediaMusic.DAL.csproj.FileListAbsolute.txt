@@ -1,0 +1,102 @@
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.deps.json
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.pdb
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfo.cs
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\refint\AppMediaMusic.DAL.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.pdb
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\ref\AppMediaMusic.DAL.dll
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.runtimeconfig.json
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.deps.json
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.pdb
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.sourcelink.json
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\refint\AppMediaMusic.DAL.dll
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.pdb
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\ref\AppMediaMusic.DAL.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.deps.json
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.runtimeconfig.json
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.pdb
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.sourcelink.json
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\refint\AppMediaMusic.DAL.dll
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.pdb
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\ref\AppMediaMusic.DAL.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.deps.json
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.runtimeconfig.json
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.pdb
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.sourcelink.json
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\refint\AppMediaMusic.DAL.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.pdb
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\PRN212\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\ref\AppMediaMusic.DAL.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.deps.json
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.runtimeconfig.json
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.pdb
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.AssemblyReference.cache
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfoInputs.cache
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfo.cs
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.CoreCompileInputs.cache
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\refint\AppMediaMusic.DAL.dll
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.pdb
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.genruntimeconfig.cache
+D:\BAO\MAJOR\SE5\PRN212\Project\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\ref\AppMediaMusic.DAL.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.deps.json
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.runtimeconfig.json
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.pdb
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.AssemblyReference.cache
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfoInputs.cache
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfo.cs
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.CoreCompileInputs.cache
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.sourcelink.json
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\refint\AppMediaMusic.DAL.dll
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.pdb
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.genruntimeconfig.cache
+D:\Project-PRN212\PRN212-main\PRN212-main\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\ref\AppMediaMusic.DAL.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.deps.json
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.runtimeconfig.json
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\bin\Debug\net8.0\AppMediaMusic.DAL.pdb
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.AssemblyReference.cache
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfoInputs.cache
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.AssemblyInfo.cs
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.csproj.CoreCompileInputs.cache
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\refint\AppMediaMusic.DAL.dll
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.pdb
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\AppMediaMusic.DAL.genruntimeconfig.cache
+D:\NMCNPM\Spotify\Spotify\Spotify\AppMediaMusic\AppMediaMusic.DAL\obj\Debug\net8.0\ref\AppMediaMusic.DAL.dll
